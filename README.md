@@ -1,0 +1,2 @@
+# control
+capturar ventas
